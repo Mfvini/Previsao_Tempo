@@ -1,7 +1,7 @@
 using Newtonsoft.Json.Linq;
 using Previsao_Tempo.Models;
 
-namespace MauiAppTempoAgora.Services
+namespace Previsao_Tempo.Services
 {
     public class DataService
     {

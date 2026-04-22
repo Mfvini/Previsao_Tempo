@@ -513,3 +513,5 @@ C:\Users\vg_la\Previsao_Tempo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\pri
 C:\Users\vg_la\Previsao_Tempo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\vg_la\Previsao_Tempo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\vg_la\Previsao_Tempo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vg_la\Previsao_Tempo\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\vg_la\Previsao_Tempo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Previsao_Tempo.sourcelink.json
